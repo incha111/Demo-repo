@@ -3,6 +3,7 @@ package com.incha.demo.domain;
 public class Person {
     private String name;
     private String age;
+    private String email;
 
     public String getName() {
         return name;
